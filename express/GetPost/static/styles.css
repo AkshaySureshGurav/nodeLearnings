@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#indexHeading {
+    margin-top: 30vh;
+    text-align: center;
+}
+
+#indexContentHolder {
+    text-align: center;
+    text-decoration: unset;
+}
+
+#indexContentHolder > a {
+    margin: 0 10vw;
+}
